@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LeanCart Product Badges\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Badge color"
+msgstr ""
+
+msgid "Badge rules"
+msgstr ""
+
+msgid "E.g.: #b32d2e"
+msgstr ""
+
+msgid "Example site:"
+msgstr ""
+
+msgid "Last items"
+msgstr ""
+
+msgid "One per line: category-slug|Badge text"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "This plugin requires WooCommerce to be active."
+msgstr ""
+
+msgid "WooCommerce Settings"
+msgstr ""
+
+msgid "You are not allowed to access this page."
+msgstr ""
